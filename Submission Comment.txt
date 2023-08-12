@@ -1,0 +1,3 @@
+A little rough but I got it. Couldn't seem to get the "code." to work so I had to open VS manually.
+
+As for the worksheet because I'm using GitBash some things were different and led to confusion. I added my own notes in the document itself next to the questions I was having an issue with to explain.
